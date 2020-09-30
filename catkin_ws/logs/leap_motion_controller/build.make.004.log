@@ -1,0 +1,33 @@
+[  0%] Built target _leap_motion_controller_generate_messages_check_deps_Set
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _leap_motion_controller_generate_messages_check_deps_Finger
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target _leap_motion_controller_generate_messages_check_deps_Hand
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[ 15%] Built target leap_motion_controller_generate_messages_cpp
+[ 36%] Built target leap_motion_controller_generate_messages_eus
+[ 52%] Built target leap_motion_controller_generate_messages_nodejs
+[ 68%] Built target leap_motion_controller_generate_messages_lisp
+[ 89%] Built target leap_motion_controller_generate_messages_py
+[ 89%] Built target leap_motion_controller_gencpp
+[ 89%] Built target leap_motion_controller_generate_messages
+make[2]: *** No rule to make target '/lib/x64/libLeap.so', needed by '/home/kustu/catkin_ws/devel/.private/leap_motion_controller/lib/leap_motion_controller/leap_motion'.  Stop.
+make[2]: *** Waiting for unfinished jobs....
+[ 94%] [32mBuilding CXX object CMakeFiles/leap_motion.dir/src/leap_motion.cpp.o[0m
+[01m[K/home/kustu/catkin_ws/src/leap_motion_controller/src/leap_motion.cpp:29:10:[m[K [01;31m[Kfatal error: [m[KLeap.h: No such file or directory
+ #include [01;31m[K"Leap.h"[m[K // comes from Leap Motion SDK
+          [01;31m[K^~~~~~~~[m[K
+compilation terminated.
+CMakeFiles/leap_motion.dir/build.make:62: recipe for target 'CMakeFiles/leap_motion.dir/src/leap_motion.cpp.o' failed
+make[2]: *** [CMakeFiles/leap_motion.dir/src/leap_motion.cpp.o] Error 1
+CMakeFiles/Makefile2:163: recipe for target 'CMakeFiles/leap_motion.dir/all' failed
+make[1]: *** [CMakeFiles/leap_motion.dir/all] Error 2
+Makefile:140: recipe for target 'all' failed
+make: *** [all] Error 2

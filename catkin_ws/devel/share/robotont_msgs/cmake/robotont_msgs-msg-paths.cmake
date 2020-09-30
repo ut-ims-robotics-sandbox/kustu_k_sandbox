@@ -1,0 +1,1 @@
+/home/kustu/catkin_ws/devel/.private/robotont_msgs/share/robotont_msgs/cmake/robotont_msgs-msg-paths.cmake

@@ -1,0 +1,16 @@
+[  0%] Built target _robotont_msgs_generate_messages_check_deps_ColorRGB
+[  0%] Built target _robotont_msgs_generate_messages_check_deps_PowerSupply
+[  0%] Built target _robotont_msgs_generate_messages_check_deps_LedModulePixel
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _robotont_msgs_generate_messages_check_deps_LedModuleSegment
+[  0%] Built target _robotont_msgs_generate_messages_check_deps_LaserScanSplit
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[ 18%] Built target robotont_msgs_generate_messages_cpp
+[ 40%] Built target robotont_msgs_generate_messages_py
+[ 59%] Built target robotont_msgs_generate_messages_nodejs
+[ 81%] Built target robotont_msgs_generate_messages_eus
+[100%] Built target robotont_msgs_generate_messages_lisp
+[100%] Built target robotont_msgs_generate_messages

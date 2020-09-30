@@ -1,0 +1,8 @@
+prefix=/home/kustu/catkin_ws/install
+
+Name: robotont_driver
+Description: Description of robotont_driver
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: std_msgs sensor_msgs geometry_msgs nav_msgs robotont_msgs tf serial

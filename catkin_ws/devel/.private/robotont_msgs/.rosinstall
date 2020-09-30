@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kustu/catkin_ws/devel/.private/robotont_msgs/setup.sh

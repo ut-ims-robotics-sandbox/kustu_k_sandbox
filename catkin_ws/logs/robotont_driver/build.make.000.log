@@ -1,0 +1,24 @@
+[35m[1mScanning dependencies of target driver_node[0m
+[35m[1mScanning dependencies of target gazebo_odom_node[0m
+[35m[1mScanning dependencies of target gazebo_driver_node[0m
+[35m[1mScanning dependencies of target fake_driver_node[0m
+[  6%] [32mBuilding CXX object CMakeFiles/gazebo_driver_node.dir/src/gazebo_driver.cpp.o[0m
+[ 18%] [32mBuilding CXX object CMakeFiles/fake_driver_node.dir/src/fake_driver_node.cpp.o[0m
+[ 18%] [32mBuilding CXX object CMakeFiles/gazebo_odom_node.dir/src/gazebo_odom.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/driver_node.dir/src/driver_node.cpp.o[0m
+[ 31%] [32mBuilding CXX object CMakeFiles/driver_node.dir/src/robotont_driver.cpp.o[0m
+[ 37%] [32m[1mLinking CXX executable /home/kustu/catkin_ws/devel/.private/robotont_driver/lib/robotont_driver/gazebo_driver_node[0m
+[ 37%] Built target gazebo_driver_node
+[ 43%] [32mBuilding CXX object CMakeFiles/driver_node.dir/src/robotont_hardware.cpp.o[0m
+[ 50%] [32m[1mLinking CXX executable /home/kustu/catkin_ws/devel/.private/robotont_driver/lib/robotont_driver/gazebo_odom_node[0m
+[ 50%] Built target gazebo_odom_node
+[ 56%] [32mBuilding CXX object CMakeFiles/driver_node.dir/src/plugin_base.cpp.o[0m
+[ 62%] [32m[1mLinking CXX executable /home/kustu/catkin_ws/devel/.private/robotont_driver/lib/robotont_driver/fake_driver_node[0m
+[ 62%] Built target fake_driver_node
+[ 68%] [32mBuilding CXX object CMakeFiles/driver_node.dir/src/plugin_motors.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/driver_node.dir/src/plugin_odom.cpp.o[0m
+[ 81%] [32mBuilding CXX object CMakeFiles/driver_node.dir/src/plugin_power_supply.cpp.o[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/driver_node.dir/src/plugin_range.cpp.o[0m
+[ 93%] [32mBuilding CXX object CMakeFiles/driver_node.dir/src/plugin_led_module.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/kustu/catkin_ws/devel/.private/robotont_driver/lib/robotont_driver/driver_node[0m
+[100%] Built target driver_node

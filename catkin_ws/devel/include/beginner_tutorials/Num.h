@@ -1,0 +1,1 @@
+/home/kustu/catkin_ws/devel/.private/beginner_tutorials/include/beginner_tutorials/Num.h

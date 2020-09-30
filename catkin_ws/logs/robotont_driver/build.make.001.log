@@ -1,0 +1,4 @@
+[ 12%] Built target gazebo_odom_node
+[ 25%] Built target fake_driver_node
+[ 37%] Built target gazebo_driver_node
+[100%] Built target driver_node

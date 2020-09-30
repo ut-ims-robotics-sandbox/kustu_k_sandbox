@@ -1,0 +1,1 @@
+/home/kustu/catkin_ws/devel/.private/robotont_description/share/robotont_description/cmake/robotont_descriptionConfig.cmake

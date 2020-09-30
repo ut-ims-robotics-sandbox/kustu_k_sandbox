@@ -1,0 +1,8 @@
+prefix=/home/kustu/catkin_ws/devel/.private/leap_motion
+
+Name: leap_motion
+Description: Description of leap_motion
+Version: 0.0.12
+Cflags: -I/home/kustu/catkin_ws/devel/.private/leap_motion/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs message_runtime roscpp std_msgs visualization_msgs rospy

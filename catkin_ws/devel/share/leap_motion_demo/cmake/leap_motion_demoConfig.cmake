@@ -1,0 +1,1 @@
+/home/kustu/catkin_ws/devel/.private/leap_motion_demo/share/leap_motion_demo/cmake/leap_motion_demoConfig.cmake

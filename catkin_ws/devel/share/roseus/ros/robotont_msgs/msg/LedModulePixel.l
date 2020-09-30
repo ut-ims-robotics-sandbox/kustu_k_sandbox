@@ -1,0 +1,1 @@
+/home/kustu/catkin_ws/devel/.private/robotont_msgs/share/roseus/ros/robotont_msgs/msg/LedModulePixel.l

@@ -1,0 +1,8 @@
+prefix=/home/kustu/catkin_ws/devel/.private/leap_motion_controller
+
+Name: leap_motion_controller
+Description: Description of leap_motion_controller
+Version: 0.0.0
+Cflags: -I/home/kustu/catkin_ws/devel/.private/leap_motion_controller/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs geometry_msgs

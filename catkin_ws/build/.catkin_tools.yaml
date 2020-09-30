@@ -1,0 +1,6 @@
+devel_space: /home/kustu/catkin_ws/devel
+install: false
+install_space: /home/kustu/catkin_ws/install
+profile: default
+source_space: /home/kustu/catkin_ws/src
+workspace: /home/kustu/catkin_ws

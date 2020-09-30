@@ -1,0 +1,7 @@
+Symlinking /home/kustu/catkin_ws/devel/share/robotont_driver/cmake/robotont_driverConfig.cmake
+Symlinking /home/kustu/catkin_ws/devel/share/robotont_driver/cmake/robotont_driverConfig-version.cmake
+Symlinking /home/kustu/catkin_ws/devel/lib/robotont_driver/fake_driver_node
+Symlinking /home/kustu/catkin_ws/devel/lib/robotont_driver/gazebo_odom_node
+Symlinking /home/kustu/catkin_ws/devel/lib/robotont_driver/driver_node
+Symlinking /home/kustu/catkin_ws/devel/lib/robotont_driver/gazebo_driver_node
+Symlinking /home/kustu/catkin_ws/devel/lib/pkgconfig/robotont_driver.pc

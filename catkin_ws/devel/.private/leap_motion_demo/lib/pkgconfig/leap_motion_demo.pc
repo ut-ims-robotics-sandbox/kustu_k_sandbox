@@ -1,0 +1,8 @@
+prefix=/home/kustu/catkin_ws/devel/.private/leap_motion_demo
+
+Name: leap_motion_demo
+Description: Description of leap_motion_demo
+Version: 0.0.5
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
