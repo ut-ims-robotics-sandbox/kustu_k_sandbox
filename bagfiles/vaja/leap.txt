@@ -1,0 +1,490 @@
+header: 
+  seq: 1937
+  stamp: 
+    secs: 1601466300
+    nsecs: 696612453
+  frame_id: "leap_hands"
+lmc_frame_id: 334536
+nr_of_hands: 0
+nr_of_fingers: 0
+nr_of_gestures: 0
+current_frames_per_second: 114.532791138
+to_string: "Frame Id:334536"
+right_hand: 
+  header: 
+    seq: 0
+    stamp: 
+      secs: 0
+      nsecs:         0
+    frame_id: ''
+  lmc_hand_id: 0
+  is_present: False
+  valid_gestures: False
+  time_visible: 0.0
+  confidence: 0.0
+  roll: 0.0
+  pitch: 0.0
+  yaw: 0.0
+  direction: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  normal: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  grab_strength: 0.0
+  pinch_strength: 0.0
+  palm_velocity: []
+  palm_center: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  palm_width: 0.0
+  sphere_radius: 0.0
+  sphere_center: []
+  to_string: ''
+  finger_list: []
+  gesture_list: []
+  arm: 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    elbow: 
+      position: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      orientation: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+        w: 0.0
+    wrist: 
+      position: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      orientation: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+        w: 0.0
+    center: []
+    direction: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+left_hand: 
+  header: 
+    seq: 0
+    stamp: 
+      secs: 0
+      nsecs:         0
+    frame_id: ''
+  lmc_hand_id: 0
+  is_present: False
+  valid_gestures: False
+  time_visible: 0.0
+  confidence: 0.0
+  roll: 0.0
+  pitch: 0.0
+  yaw: 0.0
+  direction: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  normal: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  grab_strength: 0.0
+  pinch_strength: 0.0
+  palm_velocity: []
+  palm_center: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  palm_width: 0.0
+  sphere_radius: 0.0
+  sphere_center: []
+  to_string: ''
+  finger_list: []
+  gesture_list: []
+  arm: 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    elbow: 
+      position: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      orientation: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+        w: 0.0
+    wrist: 
+      position: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      orientation: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+        w: 0.0
+    center: []
+    direction: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+---
+
+
+
+---
+header: 
+  seq: 12752
+  stamp: 
+    secs: 1601466397
+    nsecs: 601732219
+  frame_id: "leap_hands"
+lmc_frame_id: 345361
+nr_of_hands: 1
+nr_of_fingers: 5
+nr_of_gestures: 0
+current_frames_per_second: 81.800201416
+to_string: "Frame Id:345361"
+right_hand: 
+  header: 
+    seq: 0
+    stamp: 
+      secs: 0
+      nsecs:         0
+    frame_id: ''
+  lmc_hand_id: 0
+  is_present: False
+  valid_gestures: False
+  time_visible: 0.0
+  confidence: 0.0
+  roll: 0.0
+  pitch: 0.0
+  yaw: 0.0
+  direction: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  normal: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  grab_strength: 0.0
+  pinch_strength: 0.0
+  palm_velocity: []
+  palm_center: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  palm_width: 0.0
+  sphere_radius: 0.0
+  sphere_center: []
+  to_string: ''
+  finger_list: []
+  gesture_list: []
+  arm: 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    elbow: 
+      position: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      orientation: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+        w: 0.0
+    wrist: 
+      position: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      orientation: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+        w: 0.0
+    center: []
+    direction: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+left_hand: 
+  header: 
+    seq: 0
+    stamp: 
+      secs: 1601466397
+      nsecs: 601732219
+    frame_id: "leap_hands"
+  lmc_hand_id: 36
+  is_present: True
+  valid_gestures: False
+  time_visible: 6.58110523224
+  confidence: 0.898993432522
+  roll: 0.0469434931874
+  pitch: -0.0594772920012
+  yaw: 0.641191661358
+  direction: 
+    x: 0.597470939159
+    y: -0.0476661622524
+    z: -0.800472617149
+  normal: 
+    x: 0.046718083322
+    y: -0.994467079639
+    z: 0.0940883234143
+  grab_strength: 0.0
+  pinch_strength: 0.0
+  palm_velocity: [0.00235785823315382, 0.023373620584607124, -0.005630864761769772]
+  palm_center: 
+    x: 0.0107190437317
+    y: 0.186024871826
+    z: 0.0142127141953
+  palm_width: 0.0869989022613
+  sphere_radius: 0.110903002322
+  sphere_center: [0.00310442503541708, 0.08454101532697678, -0.0152517668902874]
+  to_string: "Hand Id:36"
+  finger_list: 
+    - 
+      header: 
+        seq: 0
+        stamp: 
+          secs: 1601466397
+          nsecs: 601732219
+        frame_id: "leap_hands"
+      lmc_finger_id: 360
+      type: 0
+      length: 0.0498303882778
+      width: 0.0193617716432
+      to_string: "Finger Id:360"
+      bone_list: 
+        - 
+          header: 
+            seq: 0
+            stamp: 
+              secs: 0
+              nsecs:         0
+            frame_id: ''
+          type: 0
+          length: 0.0
+          width: 0.0193617716432
+          to_string: "Bone index:0"
+          bone_start: 
+            position: 
+              x: -0.0058086681366
+              y: 0.184349761963
+              z: 0.0705647735596
+            orientation: 
+              x: -0.248332163658
+              y: 0.455349996561
+              z: 0.411085320486
+              w: 0.749664171849
+          bone_end: 
+            position: 
+              x: -0.0058086681366
+              y: 0.184349761963
+              z: 0.0705647735596
+            orientation: 
+              x: -0.248332163658
+              y: 0.455349996561
+              z: 0.411085320486
+              w: 0.749664171849
+          center: [-0.005808668211102486, 0.18434976041316986, 0.07056477665901184]
+        - 
+          header: 
+            seq: 0
+            stamp: 
+              secs: 0
+              nsecs:         0
+            frame_id: ''
+          type: 1
+          length: 0.0477280542254
+          width: 0.0193617716432
+          to_string: "Bone index:1"
+          bone_start: 
+            position: 
+              x: -0.0058086681366
+              y: 0.184349761963
+              z: 0.0705647735596
+            orientation: 
+              x: -0.121474685383
+              y: 0.609072871174
+              z: 0.478561875655
+         ^C
+          type: 0
+          length: 0.0554417967796
+          width: 0.0153531115502
+          to_string: "Bone index:0"
+          bone_start: 
+            position: 
+              x: -0.0330536460876
+              y: 0.191849029541
+              z: 0.0351326522827
+            orientation: 
+              x: 0.124754938639
+              y: 0.16866337779
+              z: -0.18978031655
+              w: 0.959151865207
+          bone_end: 
+            position: 
+              x: -0.0124903049469
+              y: 0.182130081177
+              z: -0.0154290275574
+            orientation: 
+              x: 0.124754938639
+              y: 0.16866337779
+              z: -0.18978031655
+              w: 0.959151865207
+          center: [-0.02277197688817978, 0.18698956072330475, 0.00985181238502264]
+        - 
+          header: 
+            seq: 0
+            stamp: 
+              secs: 0
+              nsecs:         0
+            frame_id: ''
+          type: 1
+          length: 0.0338082350791
+          width: 0.0153531115502
+          to_string: "Bone index:1"
+          bone_start: 
+            position: 
+              x: -0.0124903049469
+              y: 0.182130081177
+              z: -0.0154290275574
+            orientation: 
+              x: 0.105891651514
+              y: -0.0737793919952
+              z: -0.150381036537
+              w: 0.980167905087
+          bone_end: 
+            position: 
+              x: -0.0163033390045
+              y: 0.174361862183
+              z: -0.0481110153198
+            orientation: 
+              x: 0.105891651514
+              y: -0.0737793919952
+              z: -0.150381036537
+              w: 0.980167905087
+          center: [-0.014396822080016136, 0.17824597656726837, -0.031770020723342896]
+        - 
+          header: 
+            seq: 0
+            stamp: 
+              secs: 0
+              nsecs:         0
+            frame_id: ''
+          type: 2
+          length: 0.0187008939683
+          width: 0.0153531115502
+          to_string: "Bone index:2"
+          bone_start: 
+            position: 
+              x: -0.0163033390045
+              y: 0.174361862183
+              z: -0.0481110153198
+            orientation: 
+              x: 0.134779812681
+              y: -0.0693080278636
+              z: -0.152493451393
+              w: 0.976614843873
+          bone_end: 
+            position: 
+              x: -0.018066242218
+              y: 0.169043441772
+              z: -0.0659528198242
+            orientation: 
+              x: 0.134779812681
+              y: -0.0693080278636
+              z: -0.152493451393
+              w: 0.976614843873
+          center: [-0.017184792086482048, 0.17170265316963196, -0.057031918317079544]
+        - 
+          header: 
+            seq: 0
+            stamp: 
+              secs: 0
+              nsecs:         0
+            frame_id: ''
+          type: 3
+          length: 0.0164807382971
+          width: 0.0153531115502
+          to_string: "Bone index:3"
+          bone_start: 
+            position: 
+              x: -0.018066242218
+              y: 0.169043441772
+              z: -0.0659528198242
+            orientation: 
+              x: 0.158768152216
+              y: -0.0655350170623
+              z: -0.154152573865
+              w: 0.973002996263
+          bone_end: 
+            position: 
+              x: -0.0193613414764
+              y: 0.163618499756
+              z: -0.0814611206055
+            orientation: 
+              x: 0.158768152216
+              y: -0.0655350170623
+              z: -0.154152573865
+              w: 0.973002996263
+          center: [-0.01871379092335701, 0.1663309633731842, -0.0737069696187973]
+  gesture_list: []
+  arm: 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1601466397
+        nsecs: 601732219
+      frame_id: ''
+    elbow: 
+      position: 
+        x: -0.200456085205
+        y: 0.257699829102
+        z: 0.229547561646
+      orientation: 
+        x: 0.142310171103
+        y: 0.365546996346
+        z: -0.00951278089978
+        w: 0.919800371703
+    wrist: 
+      position: 
+        x: -0.026156747818
+        y: 0.191911331177
+        z: 0.0508393211365
+      orientation: 
+        x: 0.142310171103
+        y: 0.365546996346
+        z: -0.00951278089978
+        w: 0.919800371703
+    center: [-0.11330641806125641, 0.2248055785894394, 0.14019343256950378]
+    direction: 
+      x: -0.113306419373
+      y: 0.22480557251
+      z: 0.140193435669
+---
+

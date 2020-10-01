@@ -1,0 +1,150 @@
+header: 
+  seq: 1937
+  stamp: 
+    secs: 1601466300
+    nsecs: 696612453
+  frame_id: "leap_hands"
+lmc_frame_id: 334536
+nr_of_hands: 0
+nr_of_fingers: 0
+nr_of_gestures: 0
+current_frames_per_second: 114.532791138
+to_string: "Frame Id:334536"
+right_hand: 
+  header: 
+    seq: 0
+    stamp: 
+      secs: 0
+      nsecs:         0
+    frame_id: ''
+  lmc_hand_id: 0
+  is_present: False
+  valid_gestures: False
+  time_visible: 0.0
+  confidence: 0.0
+  roll: 0.0
+  pitch: 0.0
+  yaw: 0.0
+  direction: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  normal: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  grab_strength: 0.0
+  pinch_strength: 0.0
+  palm_velocity: []
+  palm_center: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  palm_width: 0.0
+  sphere_radius: 0.0
+  sphere_center: []
+  to_string: ''
+  finger_list: []
+  gesture_list: []
+  arm: 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    elbow: 
+      position: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      orientation: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+        w: 0.0
+    wrist: 
+      position: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      orientation: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+        w: 0.0
+    center: []
+    direction: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+left_hand: 
+  header: 
+    seq: 0
+    stamp: 
+      secs: 0
+      nsecs:         0
+    frame_id: ''
+  lmc_hand_id: 0
+  is_present: False
+  valid_gestures: False
+  time_visible: 0.0
+  confidence: 0.0
+  roll: 0.0
+  pitch: 0.0
+  yaw: 0.0
+  direction: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  normal: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  grab_strength: 0.0
+  pinch_strength: 0.0
+  palm_velocity: []
+  palm_center: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  palm_width: 0.0
+  sphere_radius: 0.0
+  sphere_center: []
+  to_string: ''
+  finger_list: []
+  gesture_list: []
+  arm: 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    elbow: 
+      position: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      orientation: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+        w: 0.0
+    wrist: 
+      position: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      orientation: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+        w: 0.0
+    center: []
+    direction: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+---
+
